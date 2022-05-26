@@ -4,8 +4,7 @@ Pendrive-Hack |build-status| |coverage-status| |docs|
 O fluxo de trabalho do Digispark
 --------------------
 
-Programar digispark para teste via vetores de entrada podem parecer muito complicado e com certeza tem suas peculiaridades. Felizmente,
-requests_oauthlib esconde a maioria deles e permite que você se concentre na tarefa em mãos.
+Programar digispark para teste via vetores de entrada podem parecer muito complicado e com certeza tem suas peculiaridades.
  `OAuth 2 workflow guide on RTD <https://requests-oauthlib.readthedocs.io/en/latest/oauth2_workflow.html>`_.
 
 Installation
