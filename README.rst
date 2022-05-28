@@ -5,9 +5,9 @@ O fluxo de trabalho do Digispark
 --------------------
 
 Programar digispark para teste via vetores de entrada podem parecer muito complicado e com certeza tem suas peculiaridades.
- `OAuth 2 workflow guide on RTD <https://requests-oauthlib.readthedocs.io/en/latest/oauth2_workflow.html>`_.
+ Este meu repositório foi criado com base nesta fonte: `Click aqui <https://github.com/CedArctic/DigiSpark-Scripts>`_.
 
-Installation
+Baixe o repositório 
 -------------
 
 To install requests and requests_oauthlib you can use pip:
