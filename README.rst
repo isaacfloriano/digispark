@@ -10,11 +10,11 @@ Programar digispark para teste via vetores de entrada podem parecer muito compli
 Baixe o repositório 
 -------------
 
-To install requests and requests_oauthlib you can use pip:
+Usando a ferramenta do git basta copiar o comando abaixo 👇 
 
 .. code-block:: bash
 
-    $ pip install requests requests-oauthlib
+    $ git clone https://github.com/isaacfloriano/digispark.git
 
 .. |build-status| image:: https://github.com/requests/requests-oauthlib/actions/workflows/run-tests.yml/badge.svg
    :target: https://github.com/requests/requests-oauthlib/actions
